@@ -1,0 +1,26 @@
+{
+    "name": "js-18",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "start": "webpack --mode development",
+        "build": "webpack --mode production"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/zeoniss/js-18.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/zeoniss/js-18/issues"
+    },
+    "homepage": "https://github.com/zeoniss/js-18#readme",
+    "devDependencies": {
+        "@babel/preset-env": "^7.12.11",
+        "webpack": "^5.17.0",
+        "webpack-cli": "^4.4.0"
+    }
+}
